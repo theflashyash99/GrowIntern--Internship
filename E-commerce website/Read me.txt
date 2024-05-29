@@ -1,0 +1,1 @@
+"This repository contains the files of an E-commerce website developed during my internship, representing my inaugural task in the program. It marks the beginning of my journey, showcasing the skills and knowledge gained thus far. Feel free to explore the code and witness the progress made during this initial phase."
