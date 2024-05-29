@@ -1,0 +1,1 @@
+"This repository contains the codebase for a Twitter clone, developed during my internship. It serves as a demonstration of my skills and learning progress in web development. Explore the code to see how features similar to Twitter's functionality were implemented in this project."
